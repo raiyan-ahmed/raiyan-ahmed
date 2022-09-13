@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **rfraiyan123@gmail.com**
 
-- 📄 Know about my experiences [https://resume-raiyanahmed.netlify.app/](https://resume-raiyanahmed.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
