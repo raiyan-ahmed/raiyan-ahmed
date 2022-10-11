@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiyan-ahmed&show_icons=true&locale=en" alt="raiyan-ahmed" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyan-ahmed&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyan-ahmed)
