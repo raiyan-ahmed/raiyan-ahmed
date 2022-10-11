@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, MySQL**
 
-- 💬 Ask me about **React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **React JS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS**
 
 - 📫 How to reach me **rfraiyan123@gmail.com**
 
