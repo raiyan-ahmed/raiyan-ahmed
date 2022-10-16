@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raiyan Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Sylhet, Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Sylhet, Bangladesh</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel, MySQL**
+- 🌱 I’m currently working on **PHP, Laravel, MySQL**
 
-- 💬 Ask me about **React JS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **React JS, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, PHP, Laravel, MySQL, MongoDB**
 
 - 📫 How to reach me **rfraiyan123@gmail.com**
 
